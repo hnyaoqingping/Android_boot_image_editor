@@ -34,6 +34,10 @@ Clone this repo with minimal depth:
 
     git clone https://github.com/cfig/Android_boot_image_editor.git --depth=1
 
+or clone it from mirror:
+
+    git clone https://gitee.com/cfig/Android_boot_image_editor.git --depth=1
+
 Put your boot.img to current directory, then start gradle 'unpack' task:
 
     cp <original_boot_image> boot.img
